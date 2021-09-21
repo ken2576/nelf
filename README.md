@@ -68,7 +68,7 @@ Due to [FaceScape's license](https://facescape.nju.edu.cn/Page_FAQ/), we cannot 
 
 2. Install Blender [link](https://www.blender.org/)
 
-3. Run rendering script [link](https://github.com/ken2576/facescape_render) (Coming soon!)
+3. Run rendering script [link](https://github.com/ken2576/facescape_render)
 
 
 ## Usage
