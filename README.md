@@ -124,7 +124,15 @@ Due to [FaceScape's license](https://facescape.nju.edu.cn/Page_FAQ/), we are not
 
 3. The intermediate results and model checkpoints are saved in ```[path_to_data_directory]/data_results/nelf_ft```
 
+### Configs
 
+The following config files can be found inside ```arg``` folder
+
+* ```nelf_ft``` is our main model described in the paper
+
+* ```ibr``` is our reimplementation of [IBRNet](https://ibrnet.github.io/)
+
+* ```sipr``` is our reimplementation of [Single Image Portrait Relighting](https://cseweb.ucsd.edu//~viscomp/projects/SIG19PortraitRelighting/)
 
 
 ## Citation
