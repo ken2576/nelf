@@ -20,7 +20,7 @@ Run
 
 ```
 conda env create -f environment.yml
-conda activate pixelnerf
+conda activate nelf
 ```
 
 The following packages are used:
